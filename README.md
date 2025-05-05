@@ -1,2 +1,2 @@
 # mon-premier-projet
-mon premier projet pour apprendre github
+Ceci est mon premier projet sur GitHub. J'apprend à utiliser Git ! 
